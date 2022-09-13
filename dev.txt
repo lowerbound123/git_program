@@ -1,3 +1,2 @@
 I create a branch named dev.
-git_test
 Try the rebase movement.
